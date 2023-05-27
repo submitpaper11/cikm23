@@ -53,7 +53,7 @@ python segmentation_cnn_{dataset}.py
 A detailed description of the evaluation measures and baselines is provided on the `DIX_CIKM23_METRICS_BASELINES.pdf` file.
 
 ## Additional Qualitative Results
-To view more Qualitive results, we refer you to `qualitive_results` directory.
+To view more Qualitive results, we refer you to `qualitive_results` directory and the `DIX_CIKM23_QUALITATIVE.pdf` file.
 
 ## Credits
 For comparison, we used the following implementations of code from git repositories:
