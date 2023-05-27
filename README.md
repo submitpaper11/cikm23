@@ -49,6 +49,12 @@ To run segmentation using CNN, specify the desired dataset `{dataset}` (which ca
 python segmentation_cnn_{dataset}.py
 ```
 
+## Evaluation Measures and Baselines Description
+A detailed description of the evaluation measures and baselines is provided on the `DIX_CIKM23_METRICS_BASELINES.pdf` file.
+
+## Additional Qualitative Results
+To view more Qualitive results, we refer you to `qualitive_results` directory.
+
 ## Credits
 For comparison, we used the following implementations of code from git repositories:
 - https://github.com/jacobgil/pytorch-grad-cam
